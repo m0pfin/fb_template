@@ -1,7 +1,7 @@
 # fb_template
 Template import ads in facebook
 
-![alt text](screen.jpg)
+![alt text](screen.png)
 
 **Установка:** 
 
