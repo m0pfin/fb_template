@@ -8,8 +8,8 @@
 
 return [
     'host' => 'localhost',
-    'db_name' => 'keyt1019_temp', // Имя базы данных
-    'user' => 'keyt1019_temp', // Юзер базы данных
-    'password' => 'Temptemp1', // Пароль базы данных
+    'db_name' => 'template', // Имя базы данных
+    'user' => 'root', // Юзер базы данных
+    'password' => 'root', // Пароль базы данных
     'charset' => 'utf8'
 ];
